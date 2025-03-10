@@ -1,3 +1,16 @@
 HI THis Is PYHTON 
   Hello to every ONE 
  	 USER   ->  GIT -> GIT HUB
+
+
+
+
+////   GIT  CMD's  Changes in FILE System////
+
+	git add .
+	git commit -m "COMMENT_Any THING" 
+	git push --all
+
+
+ 
+	
