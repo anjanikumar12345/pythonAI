@@ -5,11 +5,17 @@ HI THis Is PYHTON
 
 
 
-////   GIT  CMD's  Changes in FILE System////
+////   GIT  CMD's  Changes in FILE's ////
 
 	git add .
 	git commit -m "COMMENT_Any THING" 
 	git push --all
+
+
+
+#### print('A' TO "Z)
+
+
 
 
  
